@@ -1,10 +1,12 @@
 import "../styles/custom.scss";
 import Layout from "../components/Common/Layout";
+import Ask from '../components/Ask';
 
-const Ask = () => {
+const AskMe = () => {
   return (
     <Layout>
+      <Ask />
     </Layout>
   );
 };
-export default Ask;
+export default AskMe;

@@ -16,13 +16,13 @@ const profiles = [
     position: "Co-founder and Product",
     profile: "/HomePage/pranav.svg",
     description:
-      "Aspring business man, great writer and a pain in everyone's bottom.",
+      "Aspring business man, great writer and an optimist.",
   },
   {
     name: "Shobith Nandakumar",
     position: "Co-founder and CTO",
     profile: "/HomePage/shobith.svg",
-    description: "Loves cloud technology, javascript and animals.",
+    description: "",
   },
 ];
 const FourthFold = () => {

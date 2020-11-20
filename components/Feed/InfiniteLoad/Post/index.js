@@ -12,7 +12,7 @@ const Post = ({ data }) => {
           data.type === "doctor" ? styles.headerPrimary : styles.headerSecondary
         }
       >
-        <Image src="/HomePage/profile.svg" height="60" />
+        <Image src={data.profile} height="60" />
         <div className={styles.postDetails}>
           <div className={styles.firstRow}>
             <span style={{ fontSize: 16, fontWeight: "bold" }}>

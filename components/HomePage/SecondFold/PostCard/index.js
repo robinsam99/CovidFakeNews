@@ -18,12 +18,12 @@ const PostCard = ({ post }) => {
             }}
           >
             <span className={styles.header}>{post.name}</span>
-            <Image src="/LoginPage/star.svg" height="20" style={{marginRight: 20}}/>
+            <Image src="/LoginPage/star.svg" height="20" style={{ marginRight: 20 }} />
           </div>
           <CovidTag covid={post.covid} />
         </div>
       </div>
-      <div className={styles.post}>{post.post}</div>
+      <div className={styles.post}>{post.post} <a style={{ fontSize: 12, color: 'var(--cta)', cursor: 'pointer' }}>read more</a></div>
     </div>
   );
 };

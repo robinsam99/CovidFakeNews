@@ -1,37 +1,35 @@
 const postObj = [
   {
-    name: "John Doe",
+    name: "Prabhav",
     covid: true,
     post:
-      "Lorem ipsum dolor sit amet, elin consectetur adipiscing elit. sakb Phasellus justo velit, volutpat ds vitae orci et, dictum commodo jb orci. Proin in dui ex. Nullam nec erat fermentum, placerat diam sit amet, molestie dolor. ",
-    profile: "/HomePage/profile.svg",
+      "Hi all!, I’m Prabhav(21) from Mumbai. I tested positive during the Diwali break because I interacted... ",
+    profile: "/Profile/profile-5.svg",
   },
   {
-    name: "Jane Doe",
-    covid: false,
-    post:
-      "Lorem ipsum dolor sit amet, elin consectetur adipiscing elit. sakb Phasellus justo velit, volutpat ds vitae orci et, dictum commodo jb orci. Proin in dui ex. Nullam nec erat fermentum, placerat diam sit amet, molestie dolor. ",
-    profile: "/HomePage/profile.svg",
-  },
-  {
-    name: "John Doe",
+    name: "Rita",
     covid: true,
     post:
-      "Lorem ipsum dolor sit amet, elin consectetur adipiscing elit. sakb Phasellus justo velit, volutpat ds vitae orci et, dictum commodo jb orci. Proin in dui ex. Nullam nec erat fermentum, placerat diam sit amet, molestie dolor. ",
+      "I tested positive 3 weeks ago and just got back my negative test today! Feels like a relief! One thing that helped me get through these...",
     profile: "/HomePage/profile.svg",
   },
   {
-    name: "John Doe",
+    name: "Mahuja",
     covid: false,
+    post: "Vanakkam, Myself Mahuja from Tamil Nadu. My son tested positive a couple of days ago for the virus...",
+    profile: "/Profile/profile-1.svg",
+  },
+  {
+    name: "Gurmerhar",
+    covid: true,
     post:
-      "Lorem ipsum dolor sit amet, elin consectetur adipiscing elit. sakb Phasellus justo velit, volutpat ds vitae orci et, dictum commodo jb orci. Proin in dui ex. Nullam nec erat fermentum, placerat diam sit amet, molestie dolor. ",
+      "Sat Sri Akal, I’m Gurmerhar from Punjab(25) . I tested positive when I had to go back from Canada...",
     profile: "/HomePage/profile.svg",
   },
   {
-    name: "John Doe",
-    covid: false,
-    post:
-      "Lorem ipsum dolor sit amet, elin consectetur adipiscing elit. sakb Phasellus justo velit, volutpat ds vitae orci et, dictum commodo jb orci. Proin in dui ex. Nullam nec erat fermentum, placerat diam sit amet, molestie dolor. ",
+    name: "Rahul",
+    covid: true,
+    post: "One thing that helped me a lot was steaming and inhaling every night before bed. I used a Vicks...",
     profile: "/HomePage/profile.svg",
   },
 ];

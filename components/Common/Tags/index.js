@@ -14,12 +14,12 @@ const Tags = ({ type, size }) => {
         Covid Positive
       </div>
     );
-  } else if (type === "doctor") {
+  } else {
     return (
       <div className={size === "sm" ? styles.doctorSmall : styles.doctor}>
         Doctor
       </div>
     );
-  } else return <></>;
+  }
 };
 export default Tags;

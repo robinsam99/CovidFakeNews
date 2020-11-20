@@ -41,7 +41,7 @@ const HomePage = () => {
       <div
         style={{
           display: "flex",
-          justifyContent: "flex-end", 
+          justifyContent: "flex-end",
           fontWeight: "bold",
           padding: 20,
         }}
