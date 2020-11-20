@@ -40,7 +40,7 @@ const posts = [
     name: "Prabhav",
     type: "positive",
     profile: '/Profile/profile-5.svg',
-    bio: "some basic info",
+    bio: "currently in qurantine",
     post: "Hi all!, I’m Prabhav(21) from Mumbai. I tested positive during the Diwali break because I interacted with some of my friends who tested positive. It may seem like the pandemic is getting over and states are removing lockdowns, STAY AT HOME! I have to be isolated in my room and have to worry about my parents catching the virus too. My symptoms are mild, of which I’ll post soon. Stay safe because a lot of people catch the virus during festive seasons too"
   },
 ];
